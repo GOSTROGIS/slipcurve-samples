@@ -1,0 +1,175 @@
+{
+ "schema": "slipcurve-samples/v1",
+ "base": "https://raw.githubusercontent.com/GOSTROGIS/slipcurve-samples/main/",
+ "projects": [
+  {
+   "id": "lelem",
+   "title": "ləl̓əm̓ Community Centre",
+   "detail": "759 scheduled activities and six IFC drawing sets.",
+   "workspace": {
+    "path": "lelem-project/lelem.mcsave",
+    "sha256": "697e6862b7f3f94d68f49e7de10c04b6d3c4a1427eef01e4cc0cb21244d01451",
+    "size": 5226944
+   },
+   "drawings": [
+    {
+     "path": "lelem-ifc/2022-05-06 LELEM Architectural - IFC.pdf",
+     "number": "A-SET",
+     "title": "Architectural IFC set (A-000 to A-810)",
+     "discipline": "Architectural",
+     "id": "D-001",
+     "revision": "IFC 2022-05-06",
+     "set": "IFC",
+     "date": "2022-05-06",
+     "level": "",
+     "sha256": "c4facb91e9b9d027993dd53f6eccf36231d889bcffe3a63dcea2d95d608df7ef",
+     "size": 26514660,
+     "pages": 63
+    },
+    {
+     "path": "lelem-ifc/2022-05-06 LELEM Civil - IFC.pdf",
+     "number": "C-SET",
+     "title": "Civil IFC set (C900 series)",
+     "discipline": "Civil",
+     "id": "D-002",
+     "revision": "IFC 2022-05-06",
+     "set": "IFC",
+     "date": "2022-05-06",
+     "level": "",
+     "sha256": "5a07acf2658883392051df608575af4c4e7e77fd2b9a593966128fee21de5878",
+     "size": 1398359,
+     "pages": 2
+    },
+    {
+     "path": "lelem-ifc/2022-05-06 LELEM Electrical - IFC.pdf",
+     "number": "E-SET",
+     "title": "Electrical IFC set (E-000 to E-903)",
+     "discipline": "Electrical",
+     "id": "D-003",
+     "revision": "IFC 2022-05-06",
+     "set": "IFC",
+     "date": "2022-05-06",
+     "level": "",
+     "sha256": "0913bde03c904d7cc35cac8ecee8f31834d59b0767735b7d6eab7ea30de351ff",
+     "size": 14090182,
+     "pages": 24
+    },
+    {
+     "path": "lelem-ifc/2022-05-06 LELEM Landscape - IFC.pdf",
+     "number": "L-SET",
+     "title": "Landscape IFC set (scanned)",
+     "discipline": "Architectural",
+     "id": "D-004",
+     "revision": "IFC 2022-05-06",
+     "set": "IFC",
+     "date": "2022-05-06",
+     "level": "",
+     "sha256": "25deef7ad7f9425d0d972e343da4876742ba3d6c72a6f000ded5637465939d4b",
+     "size": 23756167,
+     "pages": 32
+    },
+    {
+     "path": "lelem-ifc/2022-05-06 LELEM Mechanical - IFC.pdf",
+     "number": "M-SET",
+     "title": "Mechanical IFC set (M0.01 to M6.05)",
+     "discipline": "Mechanical",
+     "id": "D-005",
+     "revision": "IFC 2022-05-06",
+     "set": "IFC",
+     "date": "2022-05-06",
+     "level": "",
+     "sha256": "c29fc58900d539a557dfee7e3a66ccad130014e5fa08f693bbd28cc43ccc6711",
+     "size": 7028019,
+     "pages": 21
+    },
+    {
+     "path": "lelem-ifc/2022-05-06 LELEM Structural - IFC.pdf",
+     "number": "S-SET",
+     "title": "Structural IFC set (S000 to S600)",
+     "discipline": "Structural",
+     "id": "D-006",
+     "revision": "IFC 2022-05-06",
+     "set": "IFC",
+     "date": "2022-05-06",
+     "level": "",
+     "sha256": "7f46906889c24729d2ad2931e316c22c7a0cb87c3dc21e7e3503eb153c0785f6",
+     "size": 3464704,
+     "pages": 21
+    }
+   ],
+   "open": "MODULE_11"
+  },
+  {
+   "id": "london-square",
+   "title": "London Square (issued for tender)",
+   "detail": "Four drawing sets, 118 sheets: rotated, cropped, scanned and raster-heavy pages.",
+   "drawings": [
+    {
+     "path": "london-square-ift/London_Square_-_IFT_-_Architectural.pdf",
+     "number": "A-IFT",
+     "title": "Architectural IFT set",
+     "discipline": "Architectural",
+     "sha256": "6929fc461ee60751b4362e868733050296a3129e93b83d5012094b9a8b9045e2",
+     "size": 28562511,
+     "pages": 51
+    },
+    {
+     "path": "london-square-ift/London_Square_-_IFT_-_Structural.pdf",
+     "number": "S-IFT",
+     "title": "Structural IFT set (scanned)",
+     "discipline": "Structural",
+     "sha256": "0a85049c60e79025e4514c8a03a82736b1bd522d9e6f9c90ea0ad779f0e20a2b",
+     "size": 25384651,
+     "pages": 36
+    },
+    {
+     "path": "london-square-ift/London_Square_-_IFT_-_Mechanical.pdf",
+     "number": "M-IFT",
+     "title": "Mechanical IFT set",
+     "discipline": "Mechanical",
+     "sha256": "e21b73fd5dfad1d6ea7b36cfe820699f583f174ba94e99e1e2275f11b1f879aa",
+     "size": 4973289,
+     "pages": 18
+    },
+    {
+     "path": "london-square-ift/London_Square_-_IFT_-_Electrical.pdf",
+     "number": "E-IFT",
+     "title": "Electrical IFT set",
+     "discipline": "Electrical",
+     "sha256": "90b1c454bcbaca6edb41a0a4420aa090d1a8451c2ff0ea8d14d214ba056157ad",
+     "size": 7719683,
+     "pages": 13
+    }
+   ],
+   "open": "MODULE_DRW"
+  },
+  {
+   "id": "fire-hall-3",
+   "title": "Fire Hall No. 3",
+   "detail": "One scanned 57-sheet set with non-uniform scan stretch.",
+   "drawings": [
+    {
+     "path": "fire-hall-3/FireHallNo3.pdf",
+     "number": "FH3",
+     "title": "Fire Hall No. 3 drawing set (scanned)",
+     "discipline": "Architectural",
+     "sha256": "e2066c3db2a9834b4367350e4286e1f45cf38b78efffc164c137e025db8f36d0",
+     "size": 15099605,
+     "pages": 57
+    }
+   ],
+   "open": "MODULE_DRW"
+  },
+  {
+   "id": "ms-project",
+   "title": "Microsoft Project assignment",
+   "detail": "A resource-loaded plan exported from Microsoft Project: calendars, assignments and progress.",
+   "schedule": {
+    "path": "msproject/FINAL_ASSIGNMENT.xml",
+    "sha256": "ce6587798bcb1e3f2db2d0dbaddf2ff24d8ae8d5dc13e1c7b6710dfbc289e128",
+    "size": 13457614
+   },
+   "open": "MODULE_11"
+  }
+ ]
+}
